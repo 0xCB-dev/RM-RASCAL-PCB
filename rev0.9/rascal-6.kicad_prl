@@ -63,7 +63,7 @@
       36,
       40
     ],
-    "visible_layers": "ffc1fff_ffffffff",
+    "visible_layers": "0001000_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -71,31 +71,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "rascal-6.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 483,
-          "pos_y": 907,
-          "size_x": 1698,
-          "size_y": 910
-        }
-      },
-      {
-        "name": "rascal-6.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 644,
-          "pos_y": 971,
-          "size_x": 1272,
-          "size_y": 404
-        }
-      }
-    ]
+    "files": []
   }
 }
