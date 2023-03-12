@@ -1,4 +1,4 @@
-21708718816645510
+21747330560484838
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64582,6 +64582,13 @@ JST-SR-4
 6
 4
 PCM_0xcb
+JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
+JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+6
+5
+PCM_0xcb
 Kailh_Choc_1.5u
 
 
@@ -64665,6 +64672,13 @@ SOD882D
 0
 2
 2
+PCM_0xcb
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
 PCM_0xcb
 SOT-563
 SOT563
@@ -64841,6 +64855,13 @@ tactile switch SPST angled PTS645VL39-2 LFS C&K Button
 4
 2
 PCM_0xcb
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+PCM_0xcb
 SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
 net tie solder jumper bridged
@@ -64890,6 +64911,13 @@ Cherry MX key stabilizer 8u 9u 10u
 0
 0
 PCM_0xcb
+TSOT-23
+3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf
+TSOT-23
+0
+3
+3
+PCM_0xcb
 TVS D_SOD-123F Rounded
 D_SOD-123F
 D_SOD-123F
@@ -64931,6 +64959,13 @@ USB_C_Receptacle_HRO_TYPE-C-31-M-31
 0
 20
 20
+PCM_0xcb
+W25Q16JVUXIQ
+
+
+0
+9
+9
 PCM_0xcb
 W25Q32JVUUIQ
 16MB flash
