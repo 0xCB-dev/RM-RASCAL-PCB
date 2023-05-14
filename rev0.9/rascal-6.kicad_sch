@@ -2012,7 +2012,7 @@
     (property "Value" "SW_SidePush" (at 67.31 90.3224 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "rutomoda:Alps_SKTDLDE010" (at 67.31 90.17 0)
+    (property "Footprint" "0xcb:Alps SKTDLDE010" (at 67.31 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 90.17 0)

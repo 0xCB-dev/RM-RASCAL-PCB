@@ -71,6 +71,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "rascal-6.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 644,
+          "pos_y": 971,
+          "size_x": 1280,
+          "size_y": 637
+        }
+      },
+      {
+        "name": "rascal-6.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 431,
+          "pos_y": 745,
+          "size_x": 1698,
+          "size_y": 910
+        }
+      }
+    ]
   }
 }
