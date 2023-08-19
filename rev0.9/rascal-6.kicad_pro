@@ -473,7 +473,7 @@
       "idf": "",
       "netlist": "rascal-6.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "rascal-6.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

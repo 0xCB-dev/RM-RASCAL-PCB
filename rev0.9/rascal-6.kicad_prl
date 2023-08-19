@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 46,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -63,7 +63,7 @@
       36,
       40
     ],
-    "visible_layers": "0001050_ffffffff",
+    "visible_layers": "000d000_7ffffffe",
     "zone_display_mode": 0
   },
   "meta": {
@@ -71,19 +71,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "rascal-6.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 644,
-          "pos_y": 971,
-          "size_x": 1280,
-          "size_y": 637
-        }
-      }
-    ]
+    "files": []
   }
 }
