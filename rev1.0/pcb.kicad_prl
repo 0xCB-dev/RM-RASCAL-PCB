@@ -38,7 +38,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -72,31 +71,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "pcb.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 483,
-          "pos_y": 907,
-          "size_x": 1698,
-          "size_y": 910
-        }
-      },
-      {
-        "name": "pcb.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 644,
-          "pos_y": 971,
-          "size_x": 1280,
-          "size_y": 664
-        }
-      }
-    ]
+    "files": []
   }
 }
